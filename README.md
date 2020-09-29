@@ -23,6 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='
-https://user-images.githubusercontent.com/44785026/94508606-27a24e00-01c7-11eb-8b30-17fcb051c1cc.gif' />
+<img src="https://user-images.githubusercontent.com/44785026/94508606-27a24e00-01c7-11eb-8b30-17fcb051c1cc.gif" width=250><br>
 
