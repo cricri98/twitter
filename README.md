@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 **Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -44,12 +44,12 @@ The following **required** functionality is completed:
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://user-images.githubusercontent.com/44785026/94508606-27a24e00-01c7-11eb-8b30-17fcb051c1cc.gif" width=250><br>
+<img src="https://user-images.githubusercontent.com/44785026/95160942-a6166700-0756-11eb-8f97-b325b856306e.gif" width=250><br>
 
